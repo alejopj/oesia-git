@@ -1,2 +1,2 @@
 # oesia-git
-Repositorio primer ejercicio
+Repositorio primer ejercicio.
